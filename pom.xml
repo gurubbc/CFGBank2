@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.cfgbank</groupId>
   <artifactId>CFGBank2</artifactId>
-  <version>4</version>
+  <version>5</version>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
